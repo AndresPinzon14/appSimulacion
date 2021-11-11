@@ -1,0 +1,67 @@
+C:\Users\Asus\source\repos\appSimulacion\appSimulacion\obj\Debug\appSimulacion.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\appSimulacion\appSimulacion\obj\Debug\appSimulacion.Properties.Resources.resources
+C:\Users\Asus\source\repos\appSimulacion\appSimulacion\obj\Debug\appSimulacion.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\appSimulacion\appSimulacion\obj\Debug\appSimulacion.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\appSimulacion\appSimulacion\bin\Debug\appSimulacion.exe.config
+C:\Users\Asus\source\repos\appSimulacion\appSimulacion\bin\Debug\appSimulacion.exe
+C:\Users\Asus\source\repos\appSimulacion\appSimulacion\bin\Debug\appSimulacion.pdb
+C:\Users\Asus\source\repos\appSimulacion\appSimulacion\obj\Debug\appSimulacion.exe
+C:\Users\Asus\source\repos\appSimulacion\appSimulacion\obj\Debug\appSimulacion.pdb
+C:\Users\Asus\source\repos\appSimulacion\appSimulacion\obj\Debug\appSimulacion.Form1.resources
+D:\Brayan\Unicauca\SEMESTRE VI\Vibraciones y Ondas\appSimulacion-master\appSimulacion\bin\Debug\appSimulacion.exe.config
+D:\Brayan\Unicauca\SEMESTRE VI\Vibraciones y Ondas\appSimulacion-master\appSimulacion\obj\Debug\appSimulacion.exe
+D:\Brayan\Unicauca\SEMESTRE VI\Vibraciones y Ondas\appSimulacion-master\appSimulacion\obj\Debug\appSimulacion.pdb
+D:\Brayan\Unicauca\SEMESTRE VI\Vibraciones y Ondas\appSimulacion-master\appSimulacion\bin\Debug\appSimulacion.exe
+D:\Brayan\Unicauca\SEMESTRE VI\Vibraciones y Ondas\appSimulacion-master\appSimulacion\bin\Debug\appSimulacion.pdb
+D:\Brayan\Unicauca\SEMESTRE VI\Vibraciones y Ondas\appSimulacion-master\appSimulacion\obj\Debug\appSimulacion.csprojResolveAssemblyReference.cache
+D:\Brayan\Unicauca\SEMESTRE VI\Vibraciones y Ondas\appSimulacion-master\appSimulacion\obj\Debug\appSimulacion.Properties.Resources.resources
+D:\Brayan\Unicauca\SEMESTRE VI\Vibraciones y Ondas\appSimulacion-master\appSimulacion\obj\Debug\appSimulacion.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\TrabajosU\SEM 6\Vibraciones y ondas\appSimulacion-master\appSimulacion\bin\Debug\appSimulacion.exe.config
+C:\Users\Asus\Desktop\TrabajosU\SEM 6\Vibraciones y ondas\appSimulacion-master\appSimulacion\bin\Debug\appSimulacion.exe
+C:\Users\Asus\Desktop\TrabajosU\SEM 6\Vibraciones y ondas\appSimulacion-master\appSimulacion\bin\Debug\appSimulacion.pdb
+C:\Users\Asus\Desktop\TrabajosU\SEM 6\Vibraciones y ondas\appSimulacion-master\appSimulacion\obj\Debug\appSimulacion.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\TrabajosU\SEM 6\Vibraciones y ondas\appSimulacion-master\appSimulacion\obj\Debug\appSimulacion.Form1.resources
+C:\Users\Asus\Desktop\TrabajosU\SEM 6\Vibraciones y ondas\appSimulacion-master\appSimulacion\obj\Debug\appSimulacion.Properties.Resources.resources
+C:\Users\Asus\Desktop\TrabajosU\SEM 6\Vibraciones y ondas\appSimulacion-master\appSimulacion\obj\Debug\appSimulacion.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\TrabajosU\SEM 6\Vibraciones y ondas\appSimulacion-master\appSimulacion\obj\Debug\appSimulacion.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\TrabajosU\SEM 6\Vibraciones y ondas\appSimulacion-master\appSimulacion\obj\Debug\appSimulacion.exe
+C:\Users\Asus\Desktop\TrabajosU\SEM 6\Vibraciones y ondas\appSimulacion-master\appSimulacion\obj\Debug\appSimulacion.pdb
+D:\Brayan\Unicauca\SEMESTRE VI\Vibraciones y Ondas\2.0\appSimulacion-master\appSimulacion\bin\Debug\appSimulacion.exe.config
+D:\Brayan\Unicauca\SEMESTRE VI\Vibraciones y Ondas\2.0\appSimulacion-master\appSimulacion\obj\Debug\appSimulacion.exe
+D:\Brayan\Unicauca\SEMESTRE VI\Vibraciones y Ondas\2.0\appSimulacion-master\appSimulacion\obj\Debug\appSimulacion.pdb
+D:\Brayan\Unicauca\SEMESTRE VI\Vibraciones y Ondas\2.0\appSimulacion-master\appSimulacion\bin\Debug\appSimulacion.exe
+D:\Brayan\Unicauca\SEMESTRE VI\Vibraciones y Ondas\2.0\appSimulacion-master\appSimulacion\bin\Debug\appSimulacion.pdb
+D:\Brayan\Unicauca\SEMESTRE VI\Vibraciones y Ondas\2.0\appSimulacion-master\appSimulacion\obj\Debug\appSimulacion.csprojResolveAssemblyReference.cache
+D:\Brayan\Unicauca\SEMESTRE VI\Vibraciones y Ondas\2.0\appSimulacion-master\appSimulacion\obj\Debug\appSimulacion.Form1.resources
+D:\Brayan\Unicauca\SEMESTRE VI\Vibraciones y Ondas\2.0\appSimulacion-master\appSimulacion\obj\Debug\appSimulacion.Properties.Resources.resources
+D:\Brayan\Unicauca\SEMESTRE VI\Vibraciones y Ondas\2.0\appSimulacion-master\appSimulacion\obj\Debug\appSimulacion.csproj.GenerateResource.Cache
+D:\Brayan\Unicauca\SEMESTRE VI\Vibraciones y Ondas\3.0\appSimulacion-master\appSimulacion\bin\Debug\appSimulacion.exe.config
+D:\Brayan\Unicauca\SEMESTRE VI\Vibraciones y Ondas\3.0\appSimulacion-master\appSimulacion\obj\Debug\appSimulacion.exe
+D:\Brayan\Unicauca\SEMESTRE VI\Vibraciones y Ondas\3.0\appSimulacion-master\appSimulacion\obj\Debug\appSimulacion.pdb
+D:\Brayan\Unicauca\SEMESTRE VI\Vibraciones y Ondas\3.0\appSimulacion-master\appSimulacion\bin\Debug\appSimulacion.exe
+D:\Brayan\Unicauca\SEMESTRE VI\Vibraciones y Ondas\3.0\appSimulacion-master\appSimulacion\bin\Debug\appSimulacion.pdb
+D:\Brayan\Unicauca\SEMESTRE VI\Vibraciones y Ondas\3.0\appSimulacion-master\appSimulacion\obj\Debug\appSimulacion.csprojResolveAssemblyReference.cache
+D:\Brayan\Unicauca\SEMESTRE VI\Vibraciones y Ondas\3.0\appSimulacion-master\appSimulacion\obj\Debug\appSimulacion.Form1.resources
+D:\Brayan\Unicauca\SEMESTRE VI\Vibraciones y Ondas\3.0\appSimulacion-master\appSimulacion\obj\Debug\appSimulacion.Properties.Resources.resources
+D:\Brayan\Unicauca\SEMESTRE VI\Vibraciones y Ondas\3.0\appSimulacion-master\appSimulacion\obj\Debug\appSimulacion.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\TrabajosU\SEM 6\Vibraciones y ondas\v\appSimulacion\bin\Debug\appSimulacion.exe.config
+C:\Users\Asus\Desktop\TrabajosU\SEM 6\Vibraciones y ondas\v\appSimulacion\bin\Debug\appSimulacion.exe
+C:\Users\Asus\Desktop\TrabajosU\SEM 6\Vibraciones y ondas\v\appSimulacion\bin\Debug\appSimulacion.pdb
+C:\Users\Asus\Desktop\TrabajosU\SEM 6\Vibraciones y ondas\v\appSimulacion\obj\Debug\appSimulacion.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\TrabajosU\SEM 6\Vibraciones y ondas\v\appSimulacion\obj\Debug\appSimulacion.Properties.Resources.resources
+C:\Users\Asus\Desktop\TrabajosU\SEM 6\Vibraciones y ondas\v\appSimulacion\obj\Debug\appSimulacion.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\TrabajosU\SEM 6\Vibraciones y ondas\v\appSimulacion\obj\Debug\appSimulacion.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\TrabajosU\SEM 6\Vibraciones y ondas\v\appSimulacion\obj\Debug\appSimulacion.exe
+C:\Users\Asus\Desktop\TrabajosU\SEM 6\Vibraciones y ondas\v\appSimulacion\obj\Debug\appSimulacion.pdb
+C:\Users\Asus\Desktop\TrabajosU\SEM 6\Vibraciones y ondas\v\appSimulacion\obj\Debug\appSimulacion.Simulación.resources
+D:\Brayan\Unicauca\SEMESTRE VI\Vibraciones y Ondas\appSimulacion-master\appSimulacion\obj\Debug\appSimulacion.Simulación.resources
+C:\Users\Asus\Desktop\TrabajosU\SEM 6\Vibraciones y ondas\cc\appSimulacion\appSimulacion\bin\Debug\appSimulacion.exe.config
+C:\Users\Asus\Desktop\TrabajosU\SEM 6\Vibraciones y ondas\cc\appSimulacion\appSimulacion\bin\Debug\appSimulacion.exe
+C:\Users\Asus\Desktop\TrabajosU\SEM 6\Vibraciones y ondas\cc\appSimulacion\appSimulacion\bin\Debug\appSimulacion.pdb
+C:\Users\Asus\Desktop\TrabajosU\SEM 6\Vibraciones y ondas\cc\appSimulacion\appSimulacion\obj\Debug\appSimulacion.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\TrabajosU\SEM 6\Vibraciones y ondas\cc\appSimulacion\appSimulacion\obj\Debug\appSimulacion.Simulación.resources
+C:\Users\Asus\Desktop\TrabajosU\SEM 6\Vibraciones y ondas\cc\appSimulacion\appSimulacion\obj\Debug\appSimulacion.Properties.Resources.resources
+C:\Users\Asus\Desktop\TrabajosU\SEM 6\Vibraciones y ondas\cc\appSimulacion\appSimulacion\obj\Debug\appSimulacion.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\TrabajosU\SEM 6\Vibraciones y ondas\cc\appSimulacion\appSimulacion\obj\Debug\appSimulacion.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\TrabajosU\SEM 6\Vibraciones y ondas\cc\appSimulacion\appSimulacion\obj\Debug\appSimulacion.exe
+C:\Users\Asus\Desktop\TrabajosU\SEM 6\Vibraciones y ondas\cc\appSimulacion\appSimulacion\obj\Debug\appSimulacion.pdb
